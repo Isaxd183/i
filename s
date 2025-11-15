@@ -5,3 +5,7 @@ https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Animes
 Apple TV+
 https://images.seeklogo.com/logo-png/35/1/apple-tv-plus-logo-png_seeklogo-350508.png
 https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Apple
+
+K-Drama
+k-drama.png
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/refs/heads/main/Doramas
