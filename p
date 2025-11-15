@@ -9,3 +9,7 @@ https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Animaci%C3
 Asiáticas
 https://dl.dropbox.com/scl/fi/rd1260wyfm2u18r1mdjst/Asiaticas_20240831_144724_0001.png?rlkey=qiode7io34u4q6x2kdxqahor5&st=41ovm8ul&dl=0
 https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Asiaticas
+
+Bélicas
+belicas.png
+https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Belico
