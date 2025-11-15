@@ -1,7 +1,7 @@
 Acción
-accion.png
+https://dl.dropboxusercontent.com/scl/fi/ckjtabu0cciemf0wjff48/j01.png?rlkey=krtd9ashpsziu8ug4k8fvtymi&st=2gnqhlm2&dl=0
 https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Acci%C3%B3n
 
 Animación
-animacion.png
+https://dl.dropbox.com/scl/fi/amqkbth4eijsp4hyfxdfc/j09.png?rlkey=x65b6hnkdv6ecoyupaxrl9fch&st=upnkg1os&dl=0
 https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Animaci%C3%B3n
